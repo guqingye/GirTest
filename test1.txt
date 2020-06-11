@@ -1,4 +1,4 @@
 ﻿abcd
 println"你好哦"
 add func1
-
+add func2
