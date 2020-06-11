@@ -1,2 +1,4 @@
-abcd
+﻿abcd
 println"你好哦"
+add func1
+
