@@ -3,3 +3,4 @@ println"你好哦"
 add func1
 add func2
 delete func3
+hhl
